@@ -1,0 +1,33 @@
+{
+    "creators": [
+        
+        {
+            "orcid": "0000-0001-7292-1982",
+            "affiliation": "Institute of Neuroscience and Medicine (INM-6), Computational and Systems Neuroscience & Institute for Advanced Simulation (IAS-6), Theoretical Neuroscience, Jülich Research Centre and JARA, Jülich, Germany",
+            "name": "Kern, Moritz"
+        },
+        
+    ],
+
+    "keywords": [
+    "neuroscience",
+    "neurophysiology",
+    "statistics",
+    "data-analysis"
+    ],
+
+    "license": {
+      "id": "BSD-3-Clause"
+    },
+
+    "related_identifiers": [
+        {
+            "scheme": "doi",
+            "identifier": "10.12751/incf.ni2018.0019",
+            "relation": "isDocumentedBy",
+            "resource_type": "publication-article"
+        }
+    ],
+
+    "upload_type": "software"
+}
