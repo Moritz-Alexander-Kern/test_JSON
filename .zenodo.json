@@ -1,12 +1,15 @@
 {
     "creators": [
-        
         {
             "orcid": "0000-0001-7292-1982",
             "affiliation": "Institute of Neuroscience and Medicine (INM-6), Computational and Systems Neuroscience & Institute for Advanced Simulation (IAS-6), Theoretical Neuroscience, Jülich Research Centre and JARA, Jülich, Germany",
             "name": "Kern, Moritz"
         },
-        
+        {
+            "orcid": "0000-0002-1825-0097",
+            "affiliation": "Feline reasearch institute",
+            "name": "Cat, Felix"
+        }
     ],
 
     "keywords": [
