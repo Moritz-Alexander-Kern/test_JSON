@@ -91,6 +91,12 @@
             "resource_type": "publication-article"
         }
     ],
-    "grants": [{"id":"720270"}, {"id":"785907"}, {"id":"945539"}],
+    
+    "grants": [
+        {"id": "720270"},
+        {"id": "785907"},
+        {"id": "945539"}
+    ],
+    
     "upload_type": "software"
 }
