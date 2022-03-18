@@ -71,6 +71,8 @@
         }
     ],
 
+    "title": "Elephant 0.11.0",
+
     "keywords": [
     "neuroscience",
     "neurophysiology",
@@ -91,12 +93,13 @@
             "resource_type": "publication-article"
         }
     ],
-    
+
     "grants": [
+        {"id": "604102"},
         {"id": "720270"},
         {"id": "785907"},
         {"id": "945539"}
     ],
-    
+
     "upload_type": "software"
 }
